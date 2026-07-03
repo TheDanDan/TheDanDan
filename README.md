@@ -1,6 +1,6 @@
 <!-- Copy this file to a repo named TheDanDan/TheDanDan as README.md -->
 
-<h1 align="center">Hi, I'm Danny Yang 👋</h1>
+<h1 align="center">Hi, I'm Danny 👋</h1>
 
 <p align="center">
   <strong>Software Engineer</strong> · Toronto, ON · CS @ University of Toronto (Aug 2026)
