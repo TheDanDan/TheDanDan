@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Danny 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> · Toronto, ON · CS @ University of Toronto (Aug 2026)
+  <strong>Backend & AI tooling</strong> · Python, FastAPI, LLM agents · Toronto · UofT CS '26
 </p>
 
 <p align="center">
@@ -26,5 +26,5 @@ I'm a software engineer with **3 internships** across fintech, government, and m
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — feel free to reach out if you'd like to connect.</i>
+  <i>Hobbies: rock climbing, poker, and gaming. Thanks for stopping by and feel free to reach out.</i>
 </p>
